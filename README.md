@@ -11,8 +11,8 @@ Here, is my solution to this problem. In this repo, you will find two python sci
 
 This work would not have been possible without the great resources given below:
 1. http://flennerhag.com/2017-01-08-Recursive-Override/
-2. https://github.com/marrrcin/pandas-feature-union
+2. https://github.com/marrrcin/pandas-feature-union ([Article Link](https://zablo.net/blog/post/pandas-dataframe-in-scikit-learn-feature-union/index.html))
 
 Other insightful articles on this topic:
 * https://signal-to-noise.xyz/post/sklearn-pipeline/
-* https://zablo.net/blog/post/pandas-dataframe-in-scikit-learn-feature-union/index.html
+* https://wkirgsn.github.io/2018/02/15/pandas-pipelines/
