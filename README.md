@@ -1,4 +1,4 @@
-### Demo for my "Pandas In, Pandas Out" scheme based Scikit-learn pipeline.
+### Demo for my "Pandas In, Pandas Out" scheme based scikit-learn pipeline.
 
 I love scikit-learn library due to the myriads of machine learning functionalities it offers as well as it's easy to follow documentation.
 
