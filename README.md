@@ -3,7 +3,7 @@
 I love scikit-learn library due to the myriads of machine learning functionalities it offers as well as it's easy to follow documentation.
 
 **sklearn.pipeline** module in scikit-learn library provides several classes and methods which provide a way to automate a machine learning workflow.
-Although, pandas dataframe input is allowed in pipelines, the time the output is always a numpy array which may not be desired all the time.
+Although, pandas dataframe input is allowed in pipelines, the output is always a numpy array which may not be desired all the time.
 
 Here, is my solution to this problem. In this repo, you will find two python scipts:
 * utils.py (contains custom classes written for for the demonstration purpose)
